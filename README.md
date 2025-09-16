@@ -33,8 +33,3 @@ It was developed as part of the **E-commerce in Networks** course (096211) at Te
 ## How to Run
 ```bash
 python 213932338_214034621.py
-📌 Authors:
-
-Dima Bishara (ID: 213932338)
-
-Diyar Husayyan (ID: 214034621)
